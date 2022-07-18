@@ -4,6 +4,7 @@
  - ### Music
     - #### Platforms to listen
       - [Bandcamp](https://thatcatinsidethetape.bandcamp.com/)
+      - [Youtube](https://www.youtube.com/channel/UC42_Y9btjEoxBUwrgx3j39Q)
     - #### All published music
       * ###### Albums
         * a bunch of me and bad renditions
