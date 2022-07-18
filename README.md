@@ -1,5 +1,5 @@
 # that cat inside the tape
-##### Hi, "that cat inside a tape" it's a project of mine, a 15 yo highschooler from Mexico, to publish all kinds of art-related stuff in an anonymous way. Right now I just got some music, that I'll link down below, but soon I may upload poems, drawings, photographs, or whatever thing that comes to my head.Tysm for getting up to here c: (started in 05/07/2022)
+##### Hi, "that cat inside a tape" it's a project of mine, a 15 yo highschooler from Mexico, to post all kinds of art-related stuff in an anonymous way. Right now I just got some music, that I'll link down below, but soon I may upload poems, drawings, photographs, or whatever thing that comes to my head.Tysm for getting up to here c: (started in 05/07/2022)
 
  - ### Music
     - #### Platforms to listen
