@@ -5,5 +5,10 @@
     - #### Platforms to listen
       - [Bandcamp](https://thatcatinsidethetape.bandcamp.com/)
     - #### All published music
+      * ###### Albums
+        * a bunch of me and bad renditions
+        * the world of eyes (to be published)
+      * ###### Eps
+        * the Ep made out of ashes
     - #### Unpublished music
       - [unreleased](unreleasedthatcat.github.io)
