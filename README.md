@@ -5,11 +5,11 @@
     - #### Platforms to listen
       - [Bandcamp](https://thatcatinsidethetape.bandcamp.com/)
       - [Youtube](https://www.youtube.com/channel/UC42_Y9btjEoxBUwrgx3j39Q)
+      - [Soundcloud](https://soundcloud.com/that-cat-inside-the-tape)
     - #### All published music
       * ###### Albums
         * a bunch of me and bad renditions
         * the world of eyes (to be published)
       * ###### Eps
         * the Ep made out of ashes
-    - #### Unpublished music
-      - [unreleased](unreleasedthatcat.github.io)
+
