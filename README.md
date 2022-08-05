@@ -6,6 +6,9 @@
       - [Bandcamp](https://thatcatinsidethetape.bandcamp.com/)
       - [Youtube](https://www.youtube.com/channel/UC42_Y9btjEoxBUwrgx3j39Q)
       - [Soundcloud](https://soundcloud.com/that-cat-inside-the-tape)
+      - [Spotify](https://open.spotify.com/artist/4DvbXIXYHV8G5JE6CexiXL)
+      - [Deezer](https://www.deezer.com/en/artist/176144667)
+      - [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nyiw7T0cExXTkBdfndWh8QUOyAuQBK5-w)
     - #### All published music
       * ###### Albums
         * a bunch of me and bad renditions
