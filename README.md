@@ -7,6 +7,7 @@
       - [Youtube](https://www.youtube.com/channel/UC42_Y9btjEoxBUwrgx3j39Q)
       - [Soundcloud](https://soundcloud.com/that-cat-inside-the-tape)
       - [Spotify](https://open.spotify.com/artist/4DvbXIXYHV8G5JE6CexiXL)
+      - [Apple Music](https://music.apple.com/us/artist/that-cat-inside-the-tape/1633955923)
       - [Deezer](https://www.deezer.com/en/artist/176144667)
       - [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nyiw7T0cExXTkBdfndWh8QUOyAuQBK5-w)
       - [Tidal](https://tidal.com/browse/artist/33162641)
