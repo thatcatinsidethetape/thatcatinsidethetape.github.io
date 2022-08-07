@@ -9,10 +9,11 @@
       - [Spotify](https://open.spotify.com/artist/4DvbXIXYHV8G5JE6CexiXL)
       - [Deezer](https://www.deezer.com/en/artist/176144667)
       - [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nyiw7T0cExXTkBdfndWh8QUOyAuQBK5-w)
+      - [Tidal](https://tidal.com/browse/artist/33162641)
     - #### All published music
       * ###### Albums
         * a bunch of me and bad renditions
-        * the world of eyes (to be published)
+        * the world of eyes 
       * ###### Eps
         * the Ep made out of ashes
 
